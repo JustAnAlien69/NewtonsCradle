@@ -60,6 +60,7 @@ bobObject3.display();
 bobObject4.display();
 bobObject5.display();
  
+console.log("Checking the Changes Made to Git");
 }
 
 function keyPressed() {
